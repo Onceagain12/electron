@@ -157,3 +157,5 @@ cherry-pick-63686953dc22.patch
 cherry-pick-f098ff0d1230.patch
 cherry-pick-f58218891f8c.patch
 wayland_ensure_dnd_buffer_size_is_a_multiple_of_scale.patch
+cherry-pick-81d7b3e6138c.patch
+cherry-pick-cf90db14f2e1.patch
